@@ -39,3 +39,11 @@ Configure database credentials in DBUtil.java.
 Compile the project.
 
 Run ScholarshipMain.java.
+
+Output:
+
+<img width="511" height="207" alt="image" src="https://github.com/user-attachments/assets/42896703-aa2b-4003-a9cb-66d9f896f2bf" />
+
+<img width="514" height="209" alt="image" src="https://github.com/user-attachments/assets/a6fff8cc-eac1-4cb9-b87f-44639a3d729c" />
+
+
