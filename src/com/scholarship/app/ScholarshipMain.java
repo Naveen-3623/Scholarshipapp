@@ -17,7 +17,7 @@ public class ScholarshipMain {
         }
         try {
             System.out.println(
-                service.evaluateApplication(710001, true, 30000,
+                service.evaluateApplication(710009, true, 30000,
                         "Merit based", "MERIT2025", 50)
                 ? "APPLICATION APPROVED" : "APPROVAL FAILED");
         } catch (Exception e) {
