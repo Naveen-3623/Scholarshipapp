@@ -1,12 +1,12 @@
 Project:ScholarshipApplication
 
-Overview
+Overview:
 
 A console-based Java application that manages student profiles and scholarship applications using JDBC connectivity with Oracle 11g XE.
 
 It supports student registration, application submission, approval/rejection, and award revocation with transactional control.
 
-Technologies Used
+Technologies Used:
 
 Java
 
@@ -16,16 +16,21 @@ Oracle 11g XE
 
 SQL
 
-Features
+Features:
 
 ✔ Add New Student
+
 ✔ View Student Details
+
 ✔ Submit Scholarship Application
+
 ✔ Approve / Reject Application
+
 ✔ Revoke Scholarship Award
+
 ✔ Transaction Management
 
-How to Run
+How to Run:
 
 Create database tables in Oracle 11g XE.
 
